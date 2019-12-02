@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Thread 1 - título",
+    "slug": "in-qui-recusandae-non-ut-1",
+    "body": "Nemo facere recusandae reiciendis voluptatem nihil facere perferendis qui. Et nam voluptas itaque quibusdam aut. Dolor at repellendus debitis minima minus et velit nisi veniam. Nemo animi dolorem reprehenderit rem officia. Excepturi a nisi autem voluptate eos quis porro laborum. Voluptatem eaque at consequatur at dicta eum iste qui.",
+    "total_replies": 2,
+    "user": {
+      "id": 1,
+      "name": "Fábio Martins Jr.",
+      "email": "Warley_Costa@live.com",
+      "created_at": 1563255424468
+    },
+    "created_at": 1563285424468
+  },
+  {
+    "id": 2,
+    "title": "Thread 2 - título",
+    "slug": "in-qui-recusandae-non-ut-2",
+    "body": "Nemo facere recusandae reiciendis voluptatem nihil facere perferendis qui. Et nam voluptas itaque quibusdam aut. Dolor at repellendus debitis minima minus et velit nisi veniam. Nemo animi dolorem reprehenderit rem officia. Excepturi a nisi autem voluptate eos quis porro laborum. Voluptatem eaque at consequatur at dicta eum iste qui.",
+    "total_replies": 2,
+    "user": {
+      "id": 1,
+      "name": "Fábio Martins Jr.",
+      "email": "Warley_Costa@live.com",
+      "created_at": 1563255424468
+    },
+    "created_at": 1563285424468
+  }
+]

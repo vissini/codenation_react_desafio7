@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Thread 1 - título",
+    "slug": "in-qui-recusandae-non-ut-1",
+    "body": "Nemo facere recusandae reiciendis voluptatem nihil facere perferendis qui. Et nam voluptas itaque quibusdam aut. Dolor at repellendus debitis minima minus et velit nisi veniam. Nemo animi dolorem reprehenderit rem officia. Excepturi a nisi autem voluptate eos quis porro laborum. Voluptatem eaque at consequatur at dicta eum iste qui.",
+    "total_replies": 2,
+    "user": {
+      "id": 1,
+      "name": "Fábio Martins Jr.",
+      "email": "Warley_Costa@live.com",
+      "created_at": 1563255424468
+    },
+    "created_at": 1563285424468,
+    "replies": [
+      {
+        "id": 1,
+        "thread_id": 1,
+        "user": {
+          "id": 2,
+          "name": "Carlos Braga",
+          "email": "Nataniel81@gmail.com",
+          "created_at ": 1563165424467
+        },
+        "body": "Suscipit soluta harum nulla labore et unde harum. Porro sunt voluptatem aspernatur rem sit sunt autem. Et cupiditate modi delectus harum. Iure dolorem laboriosam quis vel. Voluptatem beatae temporibus sapiente ut maxime sequi delectus tempora repellat.",
+        "created_at": 1563270424468
+      },
+      {
+        "id": 2,
+        "thread_id": 1,
+        "user": {
+          "id": 3,
+          "name": "Pedro Braga Neto",
+          "email": "Tertuliano4@live.com",
+          "created_at": 1563195424467
+        },
+        "body": "Impedit sint laborum. Laboriosam ea et. Id esse ut dicta id velit laborum deserunt numquam. Earum autem repellendus quos error exercitationem. Est qui recusandae minus quibusdam accusamus esse maiores eos.",
+        "created_at": 1563285424468
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Thread 2 - título",
+    "slug": "in-qui-recusandae-non-ut-2",
+    "body": "Nemo facere recusandae reiciendis voluptatem nihil facere perferendis qui. Et nam voluptas itaque quibusdam aut. Dolor at repellendus debitis minima minus et velit nisi veniam. Nemo animi dolorem reprehenderit rem officia. Excepturi a nisi autem voluptate eos quis porro laborum. Voluptatem eaque at consequatur at dicta eum iste qui.",
+    "total_replies": 2,
+    "user": {
+      "id": 1,
+      "name": "Fábio Martins Jr.",
+      "email": "Warley_Costa@live.com",
+      "created_at": 1563255424468
+    },
+    "created_at": 1563285424468,
+    "replies": [
+      {
+        "id": 1,
+        "thread_id": 1,
+        "user": {
+          "id": 2,
+          "name": "Carlos Braga",
+          "email": "Nataniel81@gmail.com",
+          "created_at ": 1563165424467
+        },
+        "body": "Suscipit soluta harum nulla labore et unde harum. Porro sunt voluptatem aspernatur rem sit sunt autem. Et cupiditate modi delectus harum. Iure dolorem laboriosam quis vel. Voluptatem beatae temporibus sapiente ut maxime sequi delectus tempora repellat.",
+        "created_at": 1563270424468
+      },
+      {
+        "id": 2,
+        "thread_id": 1,
+        "user": {
+          "id": 3,
+          "name": "Pedro Braga Neto",
+          "email": "Tertuliano4@live.com",
+          "created_at": 1563195424467
+        },
+        "body": "Impedit sint laborum. Laboriosam ea et. Id esse ut dicta id velit laborum deserunt numquam. Earum autem repellendus quos error exercitationem. Est qui recusandae minus quibusdam accusamus esse maiores eos.",
+        "created_at": 1563285424468
+      }
+    ]
+  }
+]
